@@ -1,0 +1,43 @@
+.Profile img{
+
+    width: 300px;
+    height: 300px;
+    border: none;
+    -webkit-borderRadius : 170px;
+    border-radius : 170px;
+    
+  }
+
+.Profile{
+    text-align: center;
+    background-image: url('white-concrete-wall.jpg');
+    margin: 0;
+    height: 640px;
+}
+
+.Time{
+    border: 1px solid maroon;
+    padding: 4px 10px;
+    width:  400px;
+    margin: 20px auto;
+    font-weight: bold;
+}
+
+.Profile button{
+    font-size: 22px;
+    font-weight: bold;
+    color: maroon;
+}
+
+.Profile h1{
+    text-shadow: '2px 2px';
+    color: maroon;
+    
+}
+
+.bio{
+    box-shadow: 2px 2px;
+    border: 1px solid black;
+    width:600px;
+    margin: 30px auto 
+}
